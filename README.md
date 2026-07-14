@@ -34,4 +34,4 @@ A women's health companion focused on menstrual, hormonal, and reproductive well
 
 ---
 
-built with <3 by **Anusha**
+built with <3 by **Anusha** and **Tarunika**
